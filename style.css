@@ -8,7 +8,6 @@ canvas {
 
 
 
-
 :root {
   --glow-color: rgb(165, 0, 22);
   overflow: hidden;
@@ -19,6 +18,35 @@ canvas {
   font-weight: 400;
   font-style: normal;
 }
+
+.green-website-link{
+  font-weight: bold;
+  color: rgba(30, 215, 96, 0.8);
+}
+
+.orange-website-link{
+  padding: 5px;
+  font-weight: bold;
+  color: rgb(255, 152, 7);
+}
+
+.blue-website-link{
+  padding: 5px;
+  font-weight: bold;
+  color:rgb(0, 200, 250)
+}
+
+.grey-website-link{
+  padding: 5px;
+  font-weight: bold;
+  color: rgb(107, 103, 103);
+}
+
+
+
+
+
+
 h1 {
   text-transform: uppercase;
   background-image: linear-gradient(
