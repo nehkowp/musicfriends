@@ -1,5 +1,5 @@
 
-import * as THREE from "unpkg.com/three@0.127.0/build/three.module.js";
+import * as THREE from "https://unpkg.com/three@0.127.0/build/three.module.js";
 
 import { OrbitControls } from "https://cdn.skypack.dev/pin/three@v0.132.2-dLPTyDAYt6rc6aB18fLm/mode=imports/unoptimized/examples/jsm/controls/OrbitControls.js";
 
