@@ -80197,7 +80197,7 @@ A.ex("https://accounts.spotify.com/api/token",0,null)
 A.asT()
 m=A.aL4(new A.Cm("508cb54ce2e645e192ada4768bc34384","a7ca1ef61c7043d786a0ef72c76df4dd",null),new A.oN(A.aS(t.Gf)),null)
 a2=m
-e=A.ex("https://nehkowp.github.io/musicfriends/app/callback.html",0,null)
+e=A.ex("https://nehkowp.github.io/musicfriends/callback.html",0,null)
 if(a2.as!==B.m0)A.F(A.L("The authorization URL has already been generated."))
 a2.as=B.Sg
 d=A.a(B.Gl.slice(0),t.s)
