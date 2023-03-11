@@ -1,6 +1,6 @@
 {
-  "name": "musicfriends",
-  "short_name": "musicfriends",
+  "name": "MusicFriends",
+  "short_name": "MusicFriends",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#121212",
