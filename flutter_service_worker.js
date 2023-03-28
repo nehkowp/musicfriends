@@ -6,7 +6,7 @@ const RESOURCES = {
   "assets/AssetManifest.json": "071dcd93efd419f55decb282a210e5f3",
 "assets/assets/fonts/montserrat_bold.ttf": "1f023b349af1d79a72740f4cc881a310",
 "assets/assets/fonts/montserrat_regular.ttf": "3fe868a1a9930b59d94d2c1d79461e3c",
-"assets/assets/images/musicfriends_logo.png": "60c7531ec774b8d172eb21fb86387ae7",
+"assets/assets/images/musicfriends_logo.png": "a17e29e4248d17eadfd5d167e014b4fa",
 "assets/assets/images/musicfriends_logo_black.png": "e05d40a4039107a4bd68706ab254d49d",
 "assets/assets/images/song_art.png": "241df2c8a43008b005a7959fcdc4eb62",
 "assets/assets/spotify/spotify_icon_black.png": "b818d523d8560f33bcf5d6628f0ffa73",
@@ -24,17 +24,17 @@ const RESOURCES = {
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
 "canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
 "canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"favicon.png": "94b6bc862477d722abb34815bcd2f442",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "4fe107a99b98990a6705fbeabda5b210",
-"/": "4fe107a99b98990a6705fbeabda5b210",
-"main.dart.js": "6f2becfe10fef3478f726ee70f8b9a2c",
-"manifest.json": "8cd9a589b9481e5029c8019dffa0c509",
-"version.json": "9368bf617f0592c8f3800ba66d1186d4"
+"icons/Icon-192.png": "94b6bc862477d722abb34815bcd2f442",
+"icons/Icon-512.png": "cb86b8449868390a0d3835a92ae42bd9",
+"icons/Icon-maskable-192.png": "94b6bc862477d722abb34815bcd2f442",
+"icons/Icon-maskable-512.png": "cb86b8449868390a0d3835a92ae42bd9",
+"index.html": "fe897f7e2c71c41683d8ebcde1f492ca",
+"/": "fe897f7e2c71c41683d8ebcde1f492ca",
+"main.dart.js": "89cd717131cd45aa6540739d22137966",
+"manifest.json": "586891055e3ef80394678b262003c017",
+"version.json": "d9fed92dbcc7f651f2ae585651ac7d87"
 };
 
 // The application shell files that are downloaded before a service worker can
